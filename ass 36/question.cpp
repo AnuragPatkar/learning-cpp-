@@ -566,3 +566,10 @@ int main()
     printf("s1 is not equal to s2.");
     return 0;
 } */
+
+
+
+
+
+
+bhanu pratap patkar and anurag patkar 
